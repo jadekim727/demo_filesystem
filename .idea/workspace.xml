@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="788b626d-ce6b-4175-8e36-96f0295ef60a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_filesystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rtjvm/scala/oop/commands/Command.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rtjvm/scala/oop/commands/UnknownCommand.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rtjvm/scala/oop/files/DirEntry.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rtjvm/scala/oop/files/Directory.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rtjvm/scala/oop/filesystem/Filesystem.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rtjvm/scala/oop/filesystem/State.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rtjvm/scala/oop/commands/Mkdir.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/rtjvm/scala/oop/commands/Command.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rtjvm/scala/oop/commands/Command.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/rtjvm/scala/oop/files/DirEntry.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rtjvm/scala/oop/files/DirEntry.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/rtjvm/scala/oop/files/Directory.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rtjvm/scala/oop/files/Directory.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -81,5 +75,21 @@
       <screen x="67" y="27" width="2493" height="1413" />
     </state>
     <state x="904" y="390" width="800" height="677" key="#Project_Structure/67.27.2493.1413@67.27.2493.1413" timestamp="1587354316823" />
+    <state width="1354" height="260" key="GridCell.Tab.0.bottom" timestamp="1587360578745">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="1354" height="260" key="GridCell.Tab.0.bottom/67.27.2493.1413@67.27.2493.1413" timestamp="1587360578745" />
+    <state width="1354" height="260" key="GridCell.Tab.0.center" timestamp="1587360578745">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="1354" height="260" key="GridCell.Tab.0.center/67.27.2493.1413@67.27.2493.1413" timestamp="1587360578745" />
+    <state width="1354" height="260" key="GridCell.Tab.0.left" timestamp="1587360578744">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="1354" height="260" key="GridCell.Tab.0.left/67.27.2493.1413@67.27.2493.1413" timestamp="1587360578744" />
+    <state width="1354" height="260" key="GridCell.Tab.0.right" timestamp="1587360578745">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="1354" height="260" key="GridCell.Tab.0.right/67.27.2493.1413@67.27.2493.1413" timestamp="1587360578745" />
   </component>
 </project>
